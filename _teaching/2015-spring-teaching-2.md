@@ -1,16 +1,14 @@
 ---
-title: "Graduate"
+title: "Teaching experience 2"
 collection: teaching
-type: "TA"
+type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: 
-date: 
-location: 
+venue: "University 1, Department"
+date: 2015-01-01
+location: "City, Country"
 ---
 
-- Advanced Econometrics 1: Spring 2022; Spring 2023
-
-- Statistics: Fall 2022
+This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
