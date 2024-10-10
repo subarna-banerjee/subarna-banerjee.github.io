@@ -12,6 +12,9 @@ layout: compress
   </head>
 
   <body>
+{% if page.title == "Research" %}
+<link rel="stylesheet" href="/assets/css/research.css">
+{% endif %}
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
