@@ -1,7 +1,7 @@
 /* Custom margins for research page */
 .page-content {
     margin: 5 auto;
-    max-width: 800px;  /* Adjust the max-width to suit your layout preference */
+    max-width: 600px;  /* Adjust the max-width to suit your layout preference */
     padding: 20px;
     line-height: 1.6;
 }
