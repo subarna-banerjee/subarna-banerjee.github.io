@@ -2,15 +2,15 @@
 title: "Graduate"
 collection: teaching
 type: "TA"
-permalink: /teaching/2015-spring-teaching-2
+permalink: /teaching/2015-spring-teaching-1
 venue: 
 date: 
 location: 
 ---
 
-Advanced Econometrics 1: Spring 2022; Spring 2023
+- Advanced Econometrics 1: Spring 2022; Spring 2023
 
-Statistics: Fall 2022
+- Statistics: Fall 2022
 
 Heading 1
 ======
