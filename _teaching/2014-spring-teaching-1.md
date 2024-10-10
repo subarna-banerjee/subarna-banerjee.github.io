@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Undergraduate"
 collection: teaching
-type: "Undergraduate course"
+type: "TA"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Data Analysis and Econometrics: Fall 2021
+
+Economic Development: Fall 2023; Fall 2024
 
 Heading 1
 ======
