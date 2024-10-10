@@ -2,7 +2,7 @@
 title: "Graduate"
 collection: teaching
 type: "TA"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-2
 venue: 
 date: 
 location: 
