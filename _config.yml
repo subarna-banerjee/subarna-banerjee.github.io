@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-9568-8327"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     :  "https://www.researchgate.net/profile/Subarna-Banerjee-8"
+  researchgate     : "https://www.researchgate.net/profile/Subarna-Banerjee-8"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://x.com/subarna_behenji"
+  twitter          : [Here](https://x.com/subarna_behenji)
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
