@@ -2,6 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
+css: /assets/css/research.css
 ---
 
 # Research
