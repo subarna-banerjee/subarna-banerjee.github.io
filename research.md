@@ -2,7 +2,6 @@
 layout: page
 title: Research
 permalink: /research/
-css: /assets/css/research.css
 ---
 <link rel="stylesheet" type="text/css" href="/assets/css/research.css">
 
