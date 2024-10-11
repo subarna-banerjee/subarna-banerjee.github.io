@@ -1,4 +1,4 @@
-# Research
+
 
 ##  Persistent Effects of a Conditional Cash Transfer: A Case of Empowering Women through Kanyashree in India  
 *With Gitanjali Sen*  
