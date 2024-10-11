@@ -2,7 +2,7 @@
 title: "Conferences & Invited Talks"
 ---
 
-##  2024: 
+##  2024 
 
 **Gender Conclave, National Council of Applied Economic Research:** September 25 – 26, 2024
 
@@ -14,7 +14,7 @@ title: "Conferences & Invited Talks"
 
 
 
-##  2023:
+##  2023
 
 **Pacific Conference for Development Economics (PACDEV), hosted by the University of Washington, Seattle:** March 18, 2023
 
@@ -22,7 +22,7 @@ title: "Conferences & Invited Talks"
 
 
 
-##  2022:
+##  2022
 
 **Annual Conference on Contemporary Issues in Development Economics, Jadavpur University:** December 27 – 29, 2022
 
