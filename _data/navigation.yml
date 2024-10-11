@@ -8,13 +8,13 @@ main:
 
   - title: "Research"
     url: /research/
+
+  - title: "Conferences & Talks"
+    url: /conferences/  
     
   - title: "Teaching"
     url: /teaching/
     
-  - title: "Conferences & Talks"
-    url: /conferences/  
-
   - title: "CV"
     url: /cv/  
     
