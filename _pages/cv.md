@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 ![image](https://github.com/user-attachments/assets/35db5539-0708-4aa9-a059-03c6f10a14fc)
 
-Here is my updated [CV](https://www.dropbox.com/scl/fi/o300x52g8vw9rxxqqhekn/Subarna_updated_CV.pdf?rlkey=71iufqy2hdik2t7dq9tb7wdav&st=vfnsncf3&dl=0)!
+Here is my updated [CV](https://www.dropbox.com/scl/fi/gud4c2xku3vbhe4qtl3sb/Subarna_Banerjee_July_CV.pdf?rlkey=8qihe2ua1ia2iri3dl12bgitu&st=wz5zrhsc&dl=0)!
