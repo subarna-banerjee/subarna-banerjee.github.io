@@ -1,8 +1,15 @@
 ---
 title: "Conferences & Invited Talks"
 ---
+##  2025 
+
+**SERI-D Conference, New Delhi:** February 6 – 7, 2025
+
+
 
 ##  2024 
+
+**Delhi School of Economics Winter School, New Delhi:** December 12 – 14, 2024
 
 **Gender Conclave, National Council of Applied Economic Research:** September 25 – 26, 2024
 
