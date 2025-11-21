@@ -3,6 +3,8 @@ title: "Conferences & Invited Talks"
 ---
 ##  2025 
 
+**Italian Economic Association Conference, University of Naples Parthenope:** October 23 – 25, 2025
+
 **German Development Economics Conference, Frankfurt:** June 12 – 13, 2025
 
 **SERI-D Conference, New Delhi:** February 6 – 7, 2025
