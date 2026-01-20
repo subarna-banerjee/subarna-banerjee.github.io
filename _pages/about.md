@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a [postdoc](https://uni-goettingen.de/de/699556.html) at the the Faculty of Business and Economics, University of Göttingen. I completed my PhD at the Shiv Nadar Institution of Eminence. I have also been a non-residential fellow at NCAER's National Data Innovation Centre (NDIC). I hold a BSc. Economics (Hons) from Presidency University, Kolkata, and an MSc. Economics from Shiv Nadar Institution of Eminence. I will be in the job market from fall, 2025.
+I am currently a [postdoc](https://uni-goettingen.de/de/699556.html) at the the Faculty of Business and Economics, University of Göttingen. I completed my PhD at the Shiv Nadar Institution of Eminence. I have also been a non-residential fellow at NCAER's National Data Innovation Centre (NDIC). I hold a BSc. Economics (Hons) from Presidency University, Kolkata, and an MSc. Economics from Shiv Nadar Institution of Eminence. I am in the job market.
 
 
 My research interests lie at the intersection of education, gender, and political economy. I have a keen interest in contributing to empirical evidence that can inform policy interventions that address the complex interactions between educational and political systems and the welfare outcomes of marginalized groups.
