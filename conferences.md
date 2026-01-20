@@ -3,6 +3,10 @@ title: "Conferences & Invited Talks"
 ---
 ##  2025 
 
+**20th Annual Conference on Economic Growth and Development, Indian Statistical Institute, New Delhi:** December 18 – 20, 2025
+
+**5th International Conference on Issues in Economic Theory and Policy, Presidency University** December 23 – 24, 2025
+
 **Italian Economic Association Conference, University of Naples Parthenope:** October 23 – 25, 2025
 
 **German Development Economics Conference, Frankfurt:** June 12 – 13, 2025
