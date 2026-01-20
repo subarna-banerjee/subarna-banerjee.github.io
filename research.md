@@ -23,6 +23,14 @@ We estimate the association between high-stakes exams and student suicides in In
 with less media attention and use cyclone months as exogenous shocks, finding no evidence of media bias driving the results. We find regional heterogeneity, and girls experiencing a 33 percent higher suicide during exam months, primarily due to competitive medical and nursing entrance exams. The results withstand sensitivity and falsification checks, including Oster Bounds analysis to address omitted variable bias. Peer pressure and economic incentives in highly competitive urban environments may drive mental health deterioration. We estimate the cost of exam-related student suicides at USD 1.67 billion, or 0.08% of India’s GDP. Lacking granular mental health data, we generate an alternative database to address a key policy question and spur future research.
 
 
+##  Weighing in on Service Delivery: Regression Discontinuity Evidence from India  
+
+With [Sebastian Vollmer](https://scholar.google.com/citations?user=SkjKgScAAAAJ&hl=en)
+
+**Abstract:**  
+This paper examines how legislative redistricting shapes the delivery of public services. We study India’s 2008 delimitation, which redrew state assembly constituencies and shifted the number of seats allocated to districts after a three-decade freeze. Using pre-delimitation malapportionment as a running variable, we implement a regression discontinuity design to estimate the reduced-form effect of gaining legislative weight on health service delivery in rural India. Districts just above the cutoff expanded visible, credit-claimable services—higher state-branded health insurance enrollment, more sub-health centers, and stronger ICDS outreach—and improved antenatal and postnatal care. Centrally branded schemes, higher-tier infrastructure, institutional deliveries, and child health outcomes did not change. Testing for heterogeneity within the RD framework, we find that responsiveness was strongest in historically competitive districts.
+
+
 ##  Can Media-Reported Sexual Violence Deter Women’s Educational Participation?  
 
 With [Gitanjali Sen](https://scholar.google.com/citations?user=bbFIXNgAAAAJ&hl=en) 
@@ -31,13 +39,6 @@ With [Gitanjali Sen](https://scholar.google.com/citations?user=bbFIXNgAAAAJ&hl=e
 
 **Abstract:**  
 We study the effect of proximity to sexual assault events reported by media on women’s education in India. By combining novel geocoded data on media coverage of sexual crimes with nationally representative micro-data, we find that one standard deviation increase in the lagged average distance to sexual assaults increases the schooling of women by 0.17 years and the chances of middle school completion by 1.05 percentage points. Regions that have more access to television, radio, internet, and cellular devices drive our results. The effect is stronger in localities with higher son preferences, a proxy for gender norms. Our estimates are robust to empirical specifications that remove the effects of reported crimes. The results survive sensitivity and falsification checks. These findings highlight that while mass media can influence the stigma and threat of sexual violence, it can also exacerbate the problem of underinvestment in girls’ education by families in conservative societies.
-
-##  Weighing in on Service Delivery: Regression Discontinuity Evidence from India  
-
-With [Sebastian Vollmer](https://scholar.google.com/citations?user=SkjKgScAAAAJ&hl=en)
-
-**Abstract:**  
-This paper examines how legislative redistricting shapes the delivery of public services. We study India’s 2008 delimitation, which redrew state assembly constituencies and shifted the number of seats allocated to districts after a three-decade freeze. Using pre-delimitation malapportionment as a running variable, we implement a regression discontinuity design to estimate the reduced-form effect of gaining legislative weight on health service delivery in rural India. Districts just above the cutoff expanded visible, credit-claimable services—higher state-branded health insurance enrollment, more sub-health centers, and stronger ICDS outreach—and improved antenatal and postnatal care. Centrally branded schemes, higher-tier infrastructure, institutional deliveries, and child health outcomes did not change. Testing for heterogeneity within the RD framework, we find that responsiveness was strongest in historically competitive districts.
 
 ## From Heaps to Insights: Aadhaar’s Role in Enhancing Age Data Quality  
 
