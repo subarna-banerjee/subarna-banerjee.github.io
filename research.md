@@ -34,7 +34,7 @@ We study the effect of proximity to sexual assault events reported by media on w
 
 ##  Weighing in on Service Delivery: Regression Discontinuity Evidence from India  
 
-With [Sebastian Vollmer]((https://www.uni-goettingen.de/de/prof.+dr.+sebastian+vollmer/450695.html)) 
+With [Sebastian Vollmer](https://www.uni-goettingen.de/de/prof.+dr.+sebastian+vollmer/450695.html)
 
 **Abstract:**  
 This paper examines how legislative redistricting shapes the delivery of public services. We study India’s 2008 delimitation, which redrew state assembly constituencies and shifted the number of seats allocated to districts after a three-decade freeze. Using pre-delimitation malapportionment as a running variable, we implement a regression discontinuity design to estimate the reduced-form effect of gaining legislative weight on health service delivery in rural India. Districts just above the cutoff expanded visible, credit-claimable services—higher state-branded health insurance enrollment, more sub-health centers, and stronger ICDS outreach—and improved antenatal and postnatal care. Centrally branded schemes, higher-tier infrastructure, institutional deliveries, and child health outcomes did not change. Testing for heterogeneity within the RD framework, we find that responsiveness was strongest in historically competitive districts.
