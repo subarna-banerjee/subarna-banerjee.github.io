@@ -1,26 +1,25 @@
 ---
 title: "Published & Works in Progress"
 ---
+##  Under Pressure: High-Stakes Exams and Student Mental Health  
+
+With [Gitanjali Sen](https://scholar.google.com/citations?user=bbFIXNgAAAAJ&hl=en) 
+
+*Journal of Development Economics*
+
+**Abstract:**  
+We estimate the temporal association between high-stakes exam timing and media-reported student suicides in India using geocoded news data. Student suicides are 17.5 percent higher during months in which NEET-UG or JEE-Mains examinations are held, with no comparable pattern around lower-stakes board exams or among adults. The association is concentrated when national entrance exams coincide with board exams, suggesting the salience of cumulative exam burden. These patterns are stronger among girls, in states with higher exam participation, and in urbanised districts. Event-study estimates show suicides increasing immediately before and during exams, while movements around result announcements are weaker and less precisely estimated. We find no evidence that broad shifts in media attention during cyclone or election months account for the pattern, although exam-specific reporting bias cannot be ruled out. In the absence of mental health data, we generate an alternative database to address a policy question and spur future research.
 
 ##  Persistent Effects of a Conditional Cash Transfer: A Case of Empowering Women through Kanyashree in India  
 With [Gitanjali Sen](https://scholar.google.com/citations?user=bbFIXNgAAAAJ&hl=en) 
 
-Published in *Journal of Population Economics*, September 2024
+*Journal of Population Economics*, September 2024
 
 [Link to paper](https://link.springer.com/article/10.1007/s00148-024-01045-4)
 
 **Abstract:**  
 Launched in 2013 in West Bengal, India, [Kanyashree Prakalpa](https://thinkerslog.com/a-promise-for-bengals-daughters-kanyashree-prakalpa-and-its-unfinished-story/) is a conditional cash transfer program incentivizing girls to stay in school and delay marriage. The program provides annual scholarships to 13–18-year-old girls for remaining enrolled in school, and a lump-sum transfer upon attaining adulthood, conditional on remaining unmarried and pursuing education. Using pre- and post-program data and cohort-specific eligibility rules for 15–35-year-old women, and by employing double-differences and triple-difference frameworks, we find that exposed women experience 7 to 8 percentage points higher likelihood of independent movement outside the home and have a lower tolerance for domestic violence. We find the affected cohort to have a 4 to 5 percentage points lower likelihood of justifying wife-beating by husbands. We find suggestive evidence of these results being mediated by access to bank accounts and increased schooling. This underscores the importance of education and financial independence as a pathway to women’s empowerment.
 
-##  Under Pressure: High-Stakes Exams and Student Mental Health  
-
-With [Gitanjali Sen](https://scholar.google.com/citations?user=bbFIXNgAAAAJ&hl=en) 
-
-Revise and Resubmit, *Journal of Development Economics*
-
-**Abstract:**  
-We estimate the association between high-stakes exams and student suicides in India using geocoded, high-frequency media data. There is an 18 percent rise in suicides during high-stake exam months, with results robust to alternative regression methods. We analyze subsamples
-with less media attention and use cyclone months as exogenous shocks, finding no evidence of media bias driving the results. We find regional heterogeneity, and girls experiencing a 33 percent higher suicide during exam months, primarily due to competitive medical and nursing entrance exams. The results withstand sensitivity and falsification checks, including Oster Bounds analysis to address omitted variable bias. Peer pressure and economic incentives in highly competitive urban environments may drive mental health deterioration. We estimate the cost of exam-related student suicides at USD 1.67 billion, or 0.08% of India’s GDP. Lacking granular mental health data, we generate an alternative database to address a key policy question and spur future research.
 
 
 ##  Weighing in on Service Delivery: Regression Discontinuity Evidence from India  
