@@ -5,7 +5,7 @@ title: "Published & Works in Progress"
 
 With [Gitanjali Sen](https://scholar.google.com/citations?user=bbFIXNgAAAAJ&hl=en) 
 
-*Journal of Development Economics*
+*Journal of Development Economics* [Paper (PDF)](/files/JDE_SB_GS.pdf)
 
 **Abstract:**  
 We estimate the temporal association between high-stakes exam timing and media-reported student suicides in India using geocoded news data. Student suicides are 17.5 percent higher during months in which NEET-UG or JEE-Mains examinations are held, with no comparable pattern around lower-stakes board exams or among adults. The association is concentrated when national entrance exams coincide with board exams, suggesting the salience of cumulative exam burden. These patterns are stronger among girls, in states with higher exam participation, and in urbanised districts. Event-study estimates show suicides increasing immediately before and during exams, while movements around result announcements are weaker and less precisely estimated. We find no evidence that broad shifts in media attention during cyclone or election months account for the pattern, although exam-specific reporting bias cannot be ruled out. In the absence of mental health data, we generate an alternative database to address a policy question and spur future research.
@@ -13,7 +13,7 @@ We estimate the temporal association between high-stakes exam timing and media-r
 ##  Persistent Effects of a Conditional Cash Transfer: A Case of Empowering Women through Kanyashree in India  
 With [Gitanjali Sen](https://scholar.google.com/citations?user=bbFIXNgAAAAJ&hl=en) 
 
-*Journal of Population Economics*, September 2024
+*Journal of Population Economics*, September 2024 [Paper (PDF)](/files/Subarna_Chapter1_Banerjee_Sen2024_JoPE_Kanyashree.pdf)
 
 [Link to paper](https://link.springer.com/article/10.1007/s00148-024-01045-4)
 
