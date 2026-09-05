@@ -1,7 +1,7 @@
 ---
 title: "Published & Works in Progress"
 ---
-##  Under Pressure: High-Stakes Exams and Student Mental Health  
+##  Under Pressure: High-Stakesexams and media-reported student suicides in India  
 
 With [Gitanjali Sen](https://scholar.google.com/citations?user=bbFIXNgAAAAJ&hl=en) 
 
